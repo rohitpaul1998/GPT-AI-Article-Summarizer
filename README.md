@@ -1,0 +1,13 @@
+# GPT-AI-Article-Summarizer
+
+##INTRODUCTION
+
+##SCOPE
+
+##TECHSTACK
+
+##IDEAS
+
+##OUTCOMES
+
+##FUTURE
